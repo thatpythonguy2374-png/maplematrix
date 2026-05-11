@@ -5,17 +5,16 @@
         xsi:schemaLocation="
           http://www.sitemaps.org/schemas/sitemap/0.9
           http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
- 
+
   <url>
-    <loc>https://www.maplematrix.com/</loc>
+    <loc>https://www.maplematrix.in/</loc>
     <lastmod>2026-05-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
- 
+
     <!-- hreflang alternates for en-IN targeting -->
-    <xhtml:link rel="alternate" hreflang="en-IN" href="https://www.maplematrix.com/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.maplematrix.com/"/>
+    <xhtml:link rel="alternate" hreflang="en-IN" href="https://www.maplematrix.in/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.maplematrix.in/"/>
   </url>
- 
+
 </urlset>
- 
